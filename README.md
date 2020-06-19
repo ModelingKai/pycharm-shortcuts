@@ -1,0 +1,2 @@
+# pycharm-shortcuts
+PyCharmのショートカット集
